@@ -1,7 +1,7 @@
 
 **Welcome to My Portfolio!**
 
-I’m a passionate and creative web developer with expertise in HTML, CSS, JavaScript, and more. My portfolio showcases a diverse range of projects that reflect my skills and enthusiasm for front-end development. Each project highlights my commitment to creating user-friendly, dynamic, and visually appealing web applications.
+I’m a passionate and creative web developer with expertise in HTML, CSS, JavaScript,ReactJs and more. My portfolio showcases a diverse range of projects that reflect my skills and enthusiasm for front-end development. Each project highlights my commitment to creating user-friendly, dynamic, and visually appealing web applications.
 
 ### **Featured Projects:**
 
