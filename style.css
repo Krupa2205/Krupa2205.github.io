@@ -194,6 +194,7 @@ p {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   text-align: center;
+  gap: 4px;
 }
 
 #connect ul {
@@ -215,6 +216,15 @@ p {
 
 #connect ul li a:hover {
   color: #ff8a65;
+}
+
+#connect a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.2em;
+  margin: 0 10px; /* Space between links */
+  display: inline-flex;
+  align-items: center;
 }
 
 /* Scroll to Top Button */
